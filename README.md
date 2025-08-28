@@ -1,4 +1,4 @@
-# integration
+# Integration
 
 ## Overview  
 I was solving some integration problems in physics, and it made me think about how we solve integrals by hand versus how a computer solves them. At first, finding out that libraries exist made it feel too easy, but then I discovered another approach: using computers to explore integrals through visualization and finding values under the curve—something that’s hard for humans but natural for machines.  
